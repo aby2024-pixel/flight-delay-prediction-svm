@@ -1,0 +1,11 @@
+Requirements
+
+Python 3.x
+
+NumPy
+
+Pandas
+
+scikit-learn
+
+Matplotlib
